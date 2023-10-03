@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="731">
+    <name>top</name>
+    <contextid>65059</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>295</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+230911122655+EMkhet</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="732">
+    <name>Default for Option 1: Complete a 5-question knowledge check</name>
+    <contextid>65124</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>9969</contextinstanceid>
+    <info>The default category for questions shared in context 'Option 1: Complete a 5-question knowledge check'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-moodle-dev.civicactions.net+230128202919+xkWHXA</stamp>
+    <parent>734</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="733">
+    <name>Default for Self-Advocacy for Work &amp;amp; Learning</name>
+    <contextid>65059</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>295</contextinstanceid>
+    <info>The default category for questions shared in context 'Self-Advocacy for Work &amp;amp; Learning'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-moodle-dev.civicactions.net+230128202919+onSLp7</stamp>
+    <parent>731</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+      <question id="2969">
+        <parent>0</parent>
+        <name>Question 1</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;The best term for describing&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;how&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&amp;nbsp;adults learn differently than children is:&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230128203103+5VOAvZ</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230128203110+gqIW4J</version>
+        <hidden>0</hidden>
+        <timecreated>1674937863</timecreated>
+        <timemodified>1674937870</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9316">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Andragogy&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Andragogy is the design of learning experiences tailored to the specific needs of adult learners.&lt;/span&gt;​&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9317">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Self-determination Theory&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9318">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Learner Agency&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9319">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Pedagogy&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1720">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2970">
+        <parent>0</parent>
+        <name>Question 2</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Agency is the feeling that a learner can:&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230128203248+pPSx3i</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230128203248+iURR1m</version>
+        <hidden>0</hidden>
+        <timecreated>1674937968</timecreated>
+        <timemodified>1674937968</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9320">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;make their own choices&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9321">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;share their experiences and beliefs&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9322">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;be valued within a learning environment&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9323">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;all of&amp;nbsp;the above&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Agency is the feeling that a learner can make their own choices,&amp;nbsp;share their experiences and&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;beliefs and be valued within a learning environment&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1721">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2971">
+        <parent>0</parent>
+        <name>Question 3</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Explaining your thinking aloud to another adult learner is an example of (choose the best answer):&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230128203741+bNTthA</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230128203741+sMpbIv</version>
+        <hidden>0</hidden>
+        <timecreated>1674938261</timecreated>
+        <timemodified>1674938261</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9324">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;self-awareness&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9325">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;disclosure&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9326">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;metacognition&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Explaining your thinking aloud is an example of metacognition, thinking about thinking.&amp;nbsp;&lt;/span&gt;​&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9327">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;self-advocacy&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1722">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2972">
+        <parent>0</parent>
+        <name>Question 4</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;True or False: Summarizing or simply repeating what you have learned is more powerful than&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;explaining your thinking.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230128203917+zwRYwb</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230128203917+4uRlJX</version>
+        <hidden>0</hidden>
+        <timecreated>1674938357</timecreated>
+        <timemodified>1674938357</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="9328">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9329">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Summarizing or repeating is less powerful than explaining your thinking.&lt;/span&gt;​&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="326">
+            <trueanswer>9328</trueanswer>
+            <falseanswer>9329</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2973">
+        <parent>0</parent>
+        <name>Question 5</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Which of the following build learner agency?&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230128204113+miNcKX</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230128204113+p6tJtV</version>
+        <hidden>0</hidden>
+        <timecreated>1674938473</timecreated>
+        <timemodified>1674938473</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9330">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US" style="font-size: 1.7rem;"&gt;Feeling comfortable with disclosure of experiences and needs&lt;/span&gt;&lt;span style="font-size: 1.7rem;"&gt;​&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9331">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US" style="font-size: 1.7rem;"&gt;Experiential learning opportunities&lt;/span&gt;&lt;span style="font-size: 1.7rem;"&gt;​&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9332">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US" style="font-size: 1.7rem;"&gt;Metacognition or explaining thinking aloud to others&lt;/span&gt;&lt;span style="font-size: 1.7rem;"&gt;​&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9333">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Expanding social networks&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9334">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;All of&amp;nbsp;the above&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US" style="font-size: 1.7rem;"&gt;All of&amp;nbsp;the choices have been found to support learner agency as discussed in this module.&lt;/span&gt;&lt;span style="font-size: 1.7rem;"&gt;​&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;p xml:lang="EN-US" lang="EN-US" paraid="0" paraeid="{60243c44-2224-4fd9-ae1d-d6f74739533b}{35}" data-ccp-props="{&amp;quot;335551550&amp;quot;:1,&amp;quot;335551620&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559685&amp;quot;:10,&amp;quot;335559731&amp;quot;:0,&amp;quot;335559737&amp;quot;:0,&amp;quot;335562764&amp;quot;:2,&amp;quot;335562765&amp;quot;:1.13999,&amp;quot;335562766&amp;quot;:4,&amp;quot;335562767&amp;quot;:0,&amp;quot;335562768&amp;quot;:4,&amp;quot;335562769&amp;quot;:6}"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;/span&gt;​&lt;/p&gt;&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1723">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="734">
+    <name>top</name>
+    <contextid>65124</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>9969</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+230911122658+GScMsV</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>

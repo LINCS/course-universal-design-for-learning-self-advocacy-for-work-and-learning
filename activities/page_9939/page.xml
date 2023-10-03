@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2540" moduleid="9939" modulename="page" contextid="65094">
+  <page id="2540">
+    <name>Key Idea: Expanding social networks builds self-advocacy.​</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/Key%20Idea.png" alt="" width="140" height="136" role="presentation" class="img-responsive atto_image_button_middle"&gt;&lt;/p&gt;&lt;div&gt;&lt;p xml:lang="EN-US" lang="EN-US" paraid="0" paraeid="{dd52cced-0693-40f8-b25e-1f2f10354156}{173}" data-ccp-props="{&amp;quot;335551550&amp;quot;:1,&amp;quot;335551620&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559685&amp;quot;:10,&amp;quot;335559731&amp;quot;:0,&amp;quot;335559737&amp;quot;:0,&amp;quot;335562764&amp;quot;:2,&amp;quot;335562765&amp;quot;:1.13999,&amp;quot;335562766&amp;quot;:4,&amp;quot;335562767&amp;quot;:0,&amp;quot;335562768&amp;quot;:4,&amp;quot;335562769&amp;quot;:6}"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Remember, self-advocacy is a&amp;nbsp;term used to describe learners' ability to communicate their&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;own needs within the learning&amp;nbsp;process&amp;nbsp;&lt;a href="$@PAGEVIEWBYID*9955@$" target="_blank"&gt;(Ryan &amp;amp; Griffiths, 2015)&lt;/a&gt;. Social networks are important for adult learners&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;because they create forums where learners can share their needs and ideas with others.&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Social networks give adult learners a space to practice self-advocacy. Creating opportunities&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;for adult learners to develop their social network can be done both in-person and virtually.&amp;nbsp;&lt;/span&gt;​&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p xml:lang="EN-US" lang="EN-US" paraid="0" paraeid="{dd52cced-0693-40f8-b25e-1f2f10354156}{176}" data-ccp-props="{&amp;quot;335551550&amp;quot;:1,&amp;quot;335551620&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559685&amp;quot;:10,&amp;quot;335559731&amp;quot;:0,&amp;quot;335559737&amp;quot;:0,&amp;quot;335562764&amp;quot;:2,&amp;quot;335562765&amp;quot;:1.14,&amp;quot;335562766&amp;quot;:4,&amp;quot;335562767&amp;quot;:0,&amp;quot;335562768&amp;quot;:4,&amp;quot;335562769&amp;quot;:6}"&gt;&lt;span data-contrast="auto" xml:lang="EN-US" lang="EN-US"&gt;&lt;/span&gt;​&lt;img src="@@PLUGINFILE@@/divider%20wave.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1690391481</timemodified>
+  </page>
+</activity>
